@@ -1,0 +1,73 @@
+{
+    "Comment": "Microgreens Sales Data Pipeline State Machine",
+    "StartAt": "StartPipeline",
+    "States": {
+      "StartPipeline": {
+        "Type": "Pass",
+        "Next": "RunGlueETLJob"
+      },
+      "RunGlueETLJob": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::glue:startJobRun.sync",
+        "Parameters": {
+          "JobName": "microgreens-data-cleaning-job",
+          "Arguments": {
+            "--enable-metrics": "true",
+            "--raw_s3_path.$": "$.s3Path"
+          }
+        },
+        "Next": "RunGlueCrawler"
+      },
+      "RunGlueCrawler": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::aws-sdk:glue:startCrawler",
+        "Parameters": {
+          "Name": "microgreens-sales-crawler"
+        },
+        "Next": "GetCrawlerInfo"
+      },
+      "GetCrawlerInfo": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::aws-sdk:glue:getCrawler",
+        "Parameters": {
+          "Name": "microgreens-sales-crawler"
+        },
+        "Next": "GetTableInfo"
+      },
+      "GetTableInfo": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::aws-sdk:glue:getTables",
+        "Parameters": {
+          "DatabaseName.$": "$.Crawler.DatabaseName"
+        },
+        "Next": "RunAthenaQuery"
+      },
+      "RunAthenaQuery": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::athena:startQueryExecution.sync",
+        "Parameters": {
+          "QueryString.$": "States.Format('WITH tempTable AS (SELECT microgreenname, quantitysold, unitprice * quantitysold AS quantityprice FROM {}.{}) SELECT microgreenname as microgreensName, sum(quantitysold) as totalQtySold, sum(quantityprice) as totalPrice FROM tempTable GROUP BY microgreenname ORDER BY totalPrice DESC;', $.TableList[0].DatabaseName, $.TableList[0].Name)",
+          "QueryExecutionContext": {
+            "Database.$": "$.TableList[0].DatabaseName"
+          },
+          "ResultConfiguration": {
+            "OutputLocation": "s3://microgreens-pipeline-output-bucket/athena-query-results/"
+          }
+        },
+        "Next": "SendSNSNotification"
+      },
+      "SendSNSNotification": {
+        "Type": "Task",
+        "Resource": "arn:aws:states:::sns:publish",
+        "Parameters": {
+          "TopicArn": "arn:aws:sns:us-east-1:699475920597:microgreens-sales-notification",
+          "Message": "The Microgreens Sales Data Pipeline has completed successfully. The query results are in S3 bucket s3://microgreens-pipeline-output-bucket/athena-query-results/",
+          "Subject": "Microgreens Pipeline Completion Notification"
+        },
+        "Next": "PipelineComplete"
+      },
+      "PipelineComplete": {
+        "Type": "Succeed"
+      }
+    }
+  }

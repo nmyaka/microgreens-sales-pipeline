@@ -1,0 +1,276 @@
+batchId,microgreenName,city,quantitySold,size,unitPrice,salesDate
+BATCH-34,Amaranth,,70,large,7.68,2025-01-07
+BATCH-14,Spinach,North Kevin,33,large,5.39,2025-01-07
+BATCH-83,Radish,New Danielberg,7,large,ten,2025-01-06
+BATCH-35,Mustard,Lake Stephen,68,large,5.98,2025-01-12
+BATCH-38,Amaranth,Kennethborough,8,small,3.91,2025-01-12
+BATCH-75,Arugula,Johnstonport,63,large,7.17,2025-01-01
+BATCH-2,Spinach,Mcculloughstad,78,small,3.24,2025-01-11
+BATCH-33,Radish,Lopezland,3,large,7.82,2025-01-06
+BATCH-15,Pea Shoots,West Caitlin,8,large,7.91,2025-01-03
+BATCH-94,Kale,Suttonhaven,48,large,5.57,2025-01-11
+BATCH-51,Kale,New Stephen,39,large,8.96,2025-01-14
+BATCH-23,Fenugreek,West Amandaport,17,,-10,2025-01-10
+BATCH-95,Spinach,Martinton,48,small,-10,2025-01-05
+BATCH-51,Broccoli,Wardburgh,90,,7.27,2025-01-10
+BATCH-41,Spinach,Port Phyllis,71,large,,2025-01-02
+BATCH-37,Broccoli,South Samantha,16,large,8.43,2025-01-13
+BATCH-31,Arugula,Ramseystad,30,small,ten,2025-01-05
+BATCH-52,Spicy Salad,Albertland,39,small,,2025-01-06
+BATCH-44,Basic Salad,East Kyleview,57,lrg,3.01,2025-01-16
+BATCH-70,Broccoli,,21,large,6.68,2025-01-02
+BATCH-85,Kale,North Nathanborough,2,small,4.72,2025-01-07
+BATCH-58,Pea Shoots,Juliafurt,10,large,6.9,2025-01-07
+BATCH-63,Fenugreek,North Catherine,4,large,7.99,2025-01-10
+BATCH-86,Radish,West Susan,94,small,4.56,2023-02-30
+BATCH-89,Broccoli,Lake Danielmouth,81,small,3.42,2025-01-07
+BATCH-86,Spinach,New Brianafurt,46,large,6.5,2025-01-11
+BATCH-15,Spinach,Washingtonhaven,11,med,4.48,2025-01-16
+BATCH-22,Pea Shoots,Brittneychester,3,large,6.66,2025-01-12
+BATCH-63,Fenugreek,Edwinchester,82,small,4.48,2025-01-07
+BATCH-37,Basic Salad,Mcdanielmouth,86,small,3.67,2025-01-02
+BATCH-96,Mustard,East Rose,26,large,8.59,2025-01-12
+BATCH-19,Basic Salad,Craigside,69,large,5.34,2025-01-13
+BATCH-39,Basic Salad,New Jeffery,85,large,9999,2025-01-01
+BATCH-70,Amaranth,North Susanville,57,large,8.1,2025-01-01
+BATCH-65,Amaranth,Whiteland,54,,3.54,2025-01-08
+BATCH-42,Broccoli,Wilsonberg,89,small,4335.537789380123,2025-01-02
+BATCH-19,Fenugreek,,54,large,9999,2025-01-11
+BATCH-34,Broccoli,Riveraside,37,med,6.58,13/25/2023
+BATCH-69,Broccoli,Goodchester,65,small,,2025-01-07
+BATCH-94,Arugula,Duranview,38,large,6.47,2025-01-13
+BATCH-7,Basic Salad,Paulfort,66,small,3.34,2025-01-15
+BATCH-96,Mustard,Christinatown,86,large,6.33,2025-01-16
+BATCH-91,Spicy Salad,East Elizabeth,77,large,,2025-01-07
+BATCH-9,Spicy Salad,Rodriguezburgh,96,small,3.1,2025-01-06
+BATCH-71,Mustard,Port Jeremy,46,large,9999,2025-01-02
+BATCH-35,Basic Salad,Lake Erictown,96,small,4.09,2025-01-12
+BATCH-76,Arugula,West Cameronmouth,64,large,5.14,2025-01-03
+BATCH-80,Spinach,North Paulville,89,large,8.75,2025-01-16
+BATCH-94,Kale,Rojasfurt,90,small,3.79,2025-01-12
+BATCH-64,Pea Shoots,Maloneborough,83,small,4.63,2025-01-05
+BATCH-53,Radish,New Henrystad,85,,8.0,2025-01-11
+BATCH-90,Spinach,,91,small,4.94,invalid-date
+BATCH-99,Kale,North Darrellview,57,large,8.34,2025-01-06
+BATCH-88,Fenugreek,South Mallory,56,small,3.48,2025-01-04
+BATCH-43,Kale,North Logan,89,med,3.64,2025-01-16
+BATCH-42,Kale,,29,large,7.03,2025-01-11
+BATCH-93,Pea Shoots,East Ryan,80,small,3.59,2025-01-08
+BATCH-63,Spinach,North Robertbury,97,,7.78,2025-01-14
+BATCH-9,Fenugreek,Mccarthyville,57,large,7.11,2025-01-09
+BATCH-47,Broccoli,Aliceton,91,large,7.75,2025-01-03
+BATCH-82,Kale,West Juan,39,small,4.78,13/25/2023
+BATCH-44,Pea Shoots,West Katrinastad,50,small,3.08,2025-01-15
+BATCH-28,Mustard,Donnafort,82,large,6.92,2025-01-08
+BATCH-16,Basic Salad,Scottside,80,large,5.16,2025-01-05
+BATCH-96,Spinach,Port Stevenville,94,small,3.38,2025-01-03
+BATCH-2,Kale,Hickschester,97,large,7.58,2025-01-04
+BATCH-88,Mustard,,24,small,4335.537789380123,2025-01-06
+BATCH-88,Amaranth,Lake David,18,large,7.5,2025-01-09
+BATCH-25,Arugula,Normanchester,91,small,4.16,2025-01-16
+BATCH-95,Spinach,West Yolanda,83,small,4.45,2025-01-02
+BATCH-65,Pea Shoots,,12,,4.64,2025-01-10
+BATCH-99,Mustard,Brownbury,32,small,3.89,2025-01-05
+BATCH-29,Kale,,12,large,8.52,2025-01-02
+BATCH-20,Arugula,West Albert,94,small,ten,2025-01-06
+BATCH-67,Amaranth,South John,23,small,4335.537789380123,2025-01-03
+BATCH-45,Radish,Annettechester,20,small,3.92,2025-01-11
+BATCH-81,Arugula,Phillipsstad,18,small,3.74,2025-01-11
+BATCH-29,Amaranth,Lake Jessica,91,small,3.09,13/25/2023
+BATCH-27,Amaranth,Jacobfort,65,large,8.34,2025-01-07
+BATCH-69,Arugula,East Donna,65,large,5.07,2025-01-09
+BATCH-20,Spinach,New Sheilaview,75,med,6.58,2025-01-10
+BATCH-43,Pea Shoots,East Andrew,44,small,4.65,2025-01-02
+BATCH-29,Arugula,,84,,4.21,2025-01-16
+BATCH-19,Spicy Salad,Lake Cynthia,36,small,4.81,2025-01-14
+BATCH-75,Amaranth,Wilsonport,76,large,5.29,2025-01-02
+BATCH-8,Radish,West Annaland,13,small,3.73,13/25/2023
+BATCH-51,Pea Shoots,Simmonsmouth,93,large,6.3,2025-01-12
+BATCH-75,Radish,North Michael,43,small,,2025-01-10
+BATCH-91,Radish,Lake Joshuaberg,38,small,4.24,2025-01-15
+BATCH-44,Fenugreek,Port Cody,30,,7.09,2025-01-09
+BATCH-21,Pea Shoots,Port Chadfurt,92,small,4335.537789380123,2025-01-12
+BATCH-16,Radish,New Joshua,58,small,,2025-01-01
+BATCH-4,Spinach,New Calvin,26,,,2025-01-16
+BATCH-100,Spicy Salad,Christopherfurt,55,large,7.07,2025-01-06
+BATCH-42,Basic Salad,Ronniechester,51,large,ten,2025-01-16
+BATCH-92,Mustard,,17,small,3.13,2025-01-11
+BATCH-23,Kale,North Travis,49,small,4335.537789380123,2025-01-14
+BATCH-64,Broccoli,Perezland,6,large,,2025-01-14
+BATCH-91,Fenugreek,Brittanychester,69,large,5.02,2023-02-30
+BATCH-20,Pea Shoots,Victoriaport,63,large,-10,2025-01-14
+BATCH-22,Amaranth,,51,large,8.63,2025-01-14
+BATCH-99,Spinach,Andersonmouth,97,,6.74,2025-01-15
+BATCH-70,Spicy Salad,Chasemouth,74,lrg,,2025-01-06
+BATCH-21,Arugula,East Cynthiachester,38,small,3.33,2025-01-09
+BATCH-42,Fenugreek,Port Jacobborough,59,large,5.08,2025-01-13
+BATCH-91,Amaranth,West Tonya,96,small,4.48,13/25/2023
+BATCH-70,Radish,Kellyborough,20,small,4.98,2025-01-13
+BATCH-64,Pea Shoots,East Staceyton,41,large,8.83,2025-01-01
+BATCH-91,Mustard,West Carlosshire,9,small,3.98,2025-01-14
+BATCH-38,Kale,Olsenborough,55,,4.73,2025-01-06
+BATCH-77,Spinach,Port Raymond,59,,5.69,2025-01-05
+BATCH-99,Amaranth,Jasmineberg,61,small,4335.537789380123,2025-01-07
+BATCH-12,Mustard,South Gabrielport,21,small,4.28,2025-01-06
+BATCH-64,Amaranth,New Lisa,44,large,7.55,2025-01-04
+BATCH-62,Spicy Salad,Nicholasburgh,20,large,8.03,2025-01-03
+BATCH-69,Arugula,New Terri,92,large,7.95,2025-01-10
+BATCH-45,Mustard,,42,small,3.84,2025-01-01
+BATCH-92,Amaranth,Lake Deborah,42,small,3.33,2025-01-07
+BATCH-83,Radish,Ashleyside,42,small,4.95,2025-01-05
+BATCH-53,Broccoli,Berryberg,31,med,7.52,2025-01-07
+BATCH-32,Amaranth,Fowlerville,94,small,3.21,2025-01-16
+BATCH-76,Fenugreek,,86,small,3.89,2025-01-09
+BATCH-21,Radish,West Davidstad,97,large,,2025-01-05
+BATCH-3,Amaranth,Coreytown,21,small,4.06,2025-01-08
+BATCH-25,Mustard,North Jeremy,86,large,5.95,2025-01-05
+BATCH-66,Radish,Hodgeshaven,54,large,5.17,2025-01-09
+BATCH-4,Spinach,Devontown,49,large,4335.537789380123,2025-01-08
+BATCH-65,Spicy Salad,Meghanstad,13,large,5.44,2025-01-05
+BATCH-58,Spinach,New Stephaniefurt,42,large,ten,2025-01-16
+BATCH-5,Radish,West Amber,18,small,3.12,2025-01-13
+BATCH-15,Amaranth,,70,small,4.16,2025-01-10
+BATCH-61,Fenugreek,,75,small,4.16,2025-01-06
+BATCH-99,Basic Salad,Stephaniemouth,41,large,5.13,2025-01-12
+BATCH-50,Fenugreek,Monicashire,66,small,4.1,2025-01-07
+BATCH-74,Kale,Port Jameschester,15,small,4.1,2025-01-16
+BATCH-99,Spicy Salad,South Wendymouth,64,small,4.24,2025-01-11
+BATCH-25,Broccoli,Howellberg,8,large,6.51,2025-01-07
+BATCH-86,Fenugreek,Nguyenburgh,61,large,6.51,invalid-date
+BATCH-47,Fenugreek,Johnberg,27,large,5.72,2025-01-01
+BATCH-30,Mustard,New April,76,small,3.44,2025-01-08
+BATCH-17,Mustard,Knoxstad,12,small,4.72,13/25/2023
+BATCH-86,Spinach,Coffeytown,61,large,6.79,2025-01-09
+BATCH-29,Amaranth,Brianstad,46,small,4.96,2025-01-03
+BATCH-71,Spicy Salad,Thomasfort,71,small,4335.537789380123,2025-01-15
+BATCH-68,Pea Shoots,Port Justinton,14,large,5.25,2025-01-07
+BATCH-47,Mustard,Lake Robert,78,large,5.71,2025-01-02
+BATCH-87,Radish,Barkermouth,41,large,8.74,2025-01-05
+BATCH-44,Basic Salad,Wardton,84,small,4.93,invalid-date
+BATCH-48,Spicy Salad,North Kathyburgh,7,small,3.41,2025-01-02
+BATCH-41,Broccoli,Port Barbara,28,,,2025-01-03
+BATCH-4,Fenugreek,Stephanieberg,14,large,6.39,2025-01-16
+BATCH-24,Spicy Salad,,42,lrg,ten,2025-01-15
+BATCH-99,Basic Salad,Ruizfort,35,small,3.04,2025-01-12
+BATCH-79,Broccoli,North Ericshire,80,small,9999,2025-01-14
+BATCH-84,Spicy Salad,West Sean,32,large,8.28,2025-01-10
+BATCH-29,Arugula,,56,large,8.52,2025-01-16
+BATCH-45,Mustard,North Amymouth,74,small,9999,2025-01-09
+BATCH-73,Broccoli,New Noahburgh,49,large,7.7,2025-01-08
+BATCH-50,Kale,Bobbyfort,94,large,5.7,2025-01-10
+BATCH-58,Kale,,30,small,4.61,2025-01-06
+BATCH-56,Mustard,Erikaland,67,,3.33,2025-01-14
+BATCH-65,Basic Salad,Lake Colton,51,,,2025-01-09
+BATCH-45,Pea Shoots,South Jamesport,79,,3.84,2025-01-05
+BATCH-32,Amaranth,,10,small,3.27,2025-01-08
+BATCH-51,Mustard,Sanchezfort,65,large,7.34,2025-01-10
+BATCH-13,Pea Shoots,East Stefanie,49,small,3.63,2025-01-09
+BATCH-81,Kale,North Martinton,71,large,5.43,2025-01-16
+BATCH-65,Spinach,Smithmouth,26,large,8.54,2025-01-14
+BATCH-56,Fenugreek,Tracyview,60,small,3.69,2025-01-08
+BATCH-5,Arugula,West Vicki,71,med,4.92,2025-01-12
+BATCH-74,Radish,Patriciafort,10,large,,2025-01-02
+BATCH-12,Spinach,West Timothytown,73,large,6.63,2025-01-06
+BATCH-28,Amaranth,South Anthonyburgh,75,small,3.38,2025-01-06
+BATCH-96,Kale,Margaretburgh,2,sml,3.03,2025-01-05
+BATCH-19,Pea Shoots,Davischester,57,large,ten,2025-01-16
+BATCH-72,Pea Shoots,Millerstad,45,small,3.69,2025-01-07
+BATCH-90,Radish,West Katelyn,44,large,5.55,2025-01-11
+BATCH-97,Fenugreek,South Steven,14,large,7.86,2025-01-05
+BATCH-99,Arugula,South Andrewstad,12,,3.85,2025-01-10
+BATCH-76,Spinach,Port Lisa,10,small,9999,2025-01-03
+BATCH-59,Arugula,,63,small,4.95,2025-01-02
+BATCH-52,Mustard,Lake Kathrynburgh,33,small,9999,2025-01-14
+BATCH-74,Kale,Amandastad,73,small,3.52,2025-01-13
+BATCH-43,Broccoli,Lake Stevenfurt,95,small,3.19,2025-01-13
+BATCH-83,Radish,Williamburgh,69,,3.79,2025-01-08
+BATCH-1,Amaranth,Thomastown,35,small,3.21,2025-01-04
+BATCH-25,Kale,Johnsonville,8,large,5.14,2025-01-16
+BATCH-81,Pea Shoots,,7,small,3.61,2025-01-11
+BATCH-71,Mustard,North Christopher,81,large,,2025-01-06
+BATCH-84,Broccoli,Blakestad,30,large,5.23,2025-01-13
+BATCH-73,Pea Shoots,Williammouth,64,small,3.78,2025-01-13
+BATCH-62,Kale,Fishertown,61,large,6.81,2025-01-01
+BATCH-13,Broccoli,West Tiffany,46,large,-10,2025-01-05
+BATCH-5,Kale,Thomasberg,16,small,,2025-01-12
+BATCH-4,Kale,Port Darleneshire,55,large,8.32,2025-01-12
+BATCH-11,Mustard,Justinchester,37,,8.99,2025-01-16
+BATCH-62,Arugula,Debrafurt,57,large,ten,2025-01-14
+BATCH-64,Amaranth,West Kevinmouth,53,large,5.84,2025-01-03
+BATCH-4,Arugula,New Anna,80,large,8.08,2025-01-12
+BATCH-36,Spinach,Gregorybury,79,small,3.41,2025-01-04
+BATCH-81,Kale,Donaldtown,24,large,8.91,2025-01-05
+BATCH-2,Radish,East Morgan,100,large,7.48,2025-01-06
+BATCH-35,Spinach,Mooremouth,18,large,8.02,2025-01-10
+BATCH-21,Amaranth,South April,47,small,9999,2025-01-09
+BATCH-7,Broccoli,Audreyton,67,large,7.53,2025-01-13
+BATCH-7,Mustard,Lucastown,11,small,4335.537789380123,2025-01-02
+BATCH-34,Pea Shoots,Matthewburgh,57,,,2025-01-02
+BATCH-4,Mustard,Johnstad,57,large,,2025-01-13
+BATCH-32,Basic Salad,Kirbyshire,85,large,6.22,2025-01-01
+BATCH-27,Mustard,Leahmouth,71,large,-10,2025-01-04
+BATCH-79,Basic Salad,Lambertstad,19,large,6.78,2025-01-16
+BATCH-52,Mustard,South Michaelborough,78,small,3.68,2025-01-12
+BATCH-3,Radish,,75,sml,3.59,2025-01-07
+BATCH-30,Basic Salad,Phillipsside,57,small,,2023-02-30
+BATCH-45,Amaranth,Aaronside,18,large,4335.537789380123,2025-01-01
+BATCH-14,Arugula,Port Wendy,28,large,7.56,2025-01-10
+BATCH-17,Amaranth,West Robert,23,large,5.82,2025-01-04
+BATCH-97,Radish,New Jesse,4,small,4335.537789380123,2025-01-06
+BATCH-9,Basic Salad,North Travisside,17,small,,2025-01-10
+BATCH-45,Spinach,Mccarthybury,8,small,4.4,2025-01-11
+BATCH-76,Radish,Thomasville,94,large,6.5,2025-01-04
+BATCH-92,Broccoli,Baileyfurt,5,sml,8.62,2023-02-30
+BATCH-82,Mustard,Fryefort,95,large,5.89,2025-01-04
+BATCH-28,Kale,New Jeffreymouth,90,,8.8,2025-01-02
+BATCH-39,Broccoli,North Mauriceborough,47,large,ten,2025-01-09
+BATCH-99,Fenugreek,,54,,5.92,2025-01-04
+BATCH-60,Spicy Salad,Lake Carriehaven,79,large,6.93,2025-01-16
+BATCH-81,Basic Salad,Port Benjaminland,17,small,9999,2025-01-04
+BATCH-35,Basic Salad,North Jessicaville,72,med,5.76,2025-01-02
+BATCH-51,Pea Shoots,Wumouth,5,small,4.17,2025-01-14
+BATCH-76,Broccoli,New Amanda,28,small,,2025-01-12
+BATCH-15,Spicy Salad,Jonesville,77,small,4.46,2025-01-02
+BATCH-11,Radish,Francismouth,40,small,3.71,2025-01-15
+BATCH-97,Amaranth,,93,small,4335.537789380123,2025-01-08
+BATCH-4,Broccoli,Lindseyshire,63,large,8.75,2025-01-02
+BATCH-66,Amaranth,Lake Nicholasborough,24,large,5.24,2025-01-14
+BATCH-28,Spinach,Colefurt,3,small,3.78,2025-01-09
+BATCH-41,Broccoli,East Troy,63,small,3.38,2025-01-13
+BATCH-76,Kale,Wendymouth,5,small,4.25,2025-01-14
+BATCH-53,Spinach,East Rebecca,32,,3.07,2025-01-16
+BATCH-80,Spinach,Mendozastad,80,small,4.62,2025-01-10
+BATCH-65,Radish,Novakfort,14,,,2025-01-01
+BATCH-5,Spinach,East Charles,63,large,,2025-01-09
+BATCH-17,Pea Shoots,East Amberview,47,large,6.07,2025-01-02
+BATCH-34,Amaranth,North Jessicaview,84,small,3.77,2025-01-05
+BATCH-2,Fenugreek,Odomshire,100,large,7.85,2025-01-05
+BATCH-91,Radish,New Jeffreyport,3,large,8.62,2025-01-14
+BATCH-39,Arugula,Williamsmouth,1,small,9999,2025-01-02
+BATCH-9,Arugula,,31,small,4.54,2025-01-05
+BATCH-29,Broccoli,Port Johnport,42,small,4.46,2025-01-06
+BATCH-76,Arugula,West Cameronmouth,64,large,5.14,2025-01-03
+BATCH-43,Broccoli,Lake Stevenfurt,95,small,3.19,2025-01-13
+BATCH-69,Broccoli,Goodchester,65,small,,2025-01-07
+BATCH-64,Pea Shoots,Maloneborough,83,small,4.63,2025-01-05
+BATCH-73,Pea Shoots,Williammouth,64,small,3.78,2025-01-13
+BATCH-91,Spicy Salad,East Elizabeth,77,large,4335.537789380123,2025-01-07
+BATCH-38,Amaranth,Kennethborough,8,small,3.91,2025-01-12
+BATCH-4,Arugula,New Anna,80,large,8.08,2025-01-12
+BATCH-34,Pea Shoots,Matthewburgh,57,,,2025-01-02
+BATCH-95,Spinach,Martinton,48,small,-10,2025-01-05
+BATCH-92,Broccoli,Baileyfurt,5,large,8.62,2025-01-12
+BATCH-70,Broccoli,,21,large,6.68,2025-01-02
+BATCH-19,Fenugreek,,54,large,9999,2025-01-11
+BATCH-99,Mustard,Brownbury,32,small,3.89,2025-01-05
+BATCH-70,Amaranth,North Susanville,57,large,8.1,2025-01-01
+BATCH-74,Kale,Port Jameschester,15,small,4.1,2025-01-16
+BATCH-65,Amaranth,Whiteland,54,,3.54,2025-01-08
+BATCH-75,Amaranth,Wilsonport,76,large,5.29,2025-01-02
+BATCH-41,Broccoli,Port Barbara,28,,,2025-01-03
+BATCH-94,Kale,Suttonhaven,48,large,5.57,2025-01-11
+BATCH-81,Pea Shoots,,7,small,3.61,2025-01-11
+BATCH-92,Amaranth,Lake Deborah,42,small,3.33,2025-01-07
+BATCH-28,Kale,New Jeffreymouth,90,,8.8,2025-01-02
+BATCH-47,Mustard,Lake Robert,78,large,5.71,2025-01-02
+BATCH-47,Fenugreek,Johnberg,27,large,5.72,2025-01-01
